@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home"
+        title="Home" />
+    <tab
+        id="@+id/tab_shop"
+        icon="@drawable/ic_shop"
+        title="Shop" />
+    <tab
+        id="@+id/tab_brands"
+        icon="@drawable/ic_brand"
+        title="Brands"/>
+    <tab
+        id="@+id/tab_wishlist"
+        icon="@drawable/ic_wishlist"
+        title="Wishlist" />
+    <tab
+        id="@+id/tab_me"
+        icon="@drawable/ic_user"
+        title="Me" />
+</tabs>

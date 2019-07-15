@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Ecommerce</string>
+    <string name="something_went_wrong">Something went wrong!!!</string>
+
+    <string name="main_url">http://websites.lezasolutions.com/bazma/api/v2/</string>
+
+</resources>
